@@ -4,7 +4,7 @@ This Plugin is inspired from EmailComposer plugin [here](https://github.com/GalC
 
 This plugin allows you to send html email to any email accounts you want including attachments
 
-This has been successfully tested from Cordova 2.2.0 through to version 3.1.0.
+This has been successfully tested from Cordova 2.2.0 through to version 6.3.
 
 Callable interface:
 
